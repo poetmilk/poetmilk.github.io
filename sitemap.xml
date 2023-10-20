@@ -38,34 +38,7 @@
   </url>
   
   <url>
-    <loc>https://blog.poetmilk.fun/box/nav/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.poetmilk.fun/life/games/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.poetmilk.fun/box/animation/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.poetmilk.fun/life/movies/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -83,6 +56,24 @@
   </url>
   
   <url>
+    <loc>https://blog.poetmilk.fun/box/nav/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.poetmilk.fun/life/movies/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.poetmilk.fun/life/music/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
@@ -92,16 +83,7 @@
   </url>
   
   <url>
-    <loc>https://blog.poetmilk.fun/personal/love/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.poetmilk.fun/site/census/index.html</loc>
+    <loc>https://blog.poetmilk.fun/life/games/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -128,7 +110,7 @@
   </url>
   
   <url>
-    <loc>https://blog.poetmilk.fun/social/fcircle/index.html</loc>
+    <loc>https://blog.poetmilk.fun/personal/love/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -138,6 +120,24 @@
   
   <url>
     <loc>https://blog.poetmilk.fun/site/time/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.poetmilk.fun/social/fcircle/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.poetmilk.fun/site/census/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
