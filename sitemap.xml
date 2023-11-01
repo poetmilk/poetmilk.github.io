@@ -74,52 +74,7 @@
   </url>
   
   <url>
-    <loc>https://blog.poetmilk.fun/box/gallery/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.poetmilk.fun/box/animation/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.poetmilk.fun/box/nav/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.poetmilk.fun/life/games/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.poetmilk.fun/life/movies/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.poetmilk.fun/personal/about/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -137,6 +92,15 @@
   </url>
   
   <url>
+    <loc>https://blog.poetmilk.fun/life/games/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.poetmilk.fun/personal/love/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
@@ -146,7 +110,43 @@
   </url>
   
   <url>
+    <loc>https://blog.poetmilk.fun/life/movies/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.poetmilk.fun/box/animation/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.poetmilk.fun/box/gallery/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.poetmilk.fun/site/census/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.poetmilk.fun/personal/about/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -173,7 +173,7 @@
   </url>
   
   <url>
-    <loc>https://blog.poetmilk.fun/social/link/index.html</loc>
+    <loc>https://blog.poetmilk.fun/social/fcircle/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -182,7 +182,7 @@
   </url>
   
   <url>
-    <loc>https://blog.poetmilk.fun/social/fcircle/index.html</loc>
+    <loc>https://blog.poetmilk.fun/social/link/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -218,13 +218,6 @@
 
   
   <url>
-    <loc>https://blog.poetmilk.fun/tags/hexo/</loc>
-    <lastmod>2023-11-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.poetmilk.fun/tags/%E6%B5%8F%E8%A7%88%E5%99%A8/</loc>
     <lastmod>2023-11-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -246,14 +239,14 @@
   </url>
   
   <url>
-    <loc>https://blog.poetmilk.fun/tags/Markdown/</loc>
+    <loc>https://blog.poetmilk.fun/tags/hexo/</loc>
     <lastmod>2023-11-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blog.poetmilk.fun/tags/%E5%A4%96%E6%8C%82%E6%A0%87%E7%AD%BE/</loc>
+    <loc>https://blog.poetmilk.fun/tags/%E4%BB%A3%E7%90%86/</loc>
     <lastmod>2023-11-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -281,20 +274,20 @@
   </url>
   
   <url>
-    <loc>https://blog.poetmilk.fun/tags/%E4%BB%A3%E7%90%86/</loc>
+    <loc>https://blog.poetmilk.fun/tags/Markdown/</loc>
+    <lastmod>2023-11-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.poetmilk.fun/tags/%E5%A4%96%E6%8C%82%E6%A0%87%E7%AD%BE/</loc>
     <lastmod>2023-11-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
 
-  
-  <url>
-    <loc>https://blog.poetmilk.fun/categories/hexo/</loc>
-    <lastmod>2023-11-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
   
   <url>
     <loc>https://blog.poetmilk.fun/categories/%E9%80%9A%E7%94%A8%E6%BC%8F%E6%B4%9E/</loc>
@@ -304,7 +297,14 @@
   </url>
   
   <url>
-    <loc>https://blog.poetmilk.fun/categories/%E6%BC%94%E7%A4%BA/</loc>
+    <loc>https://blog.poetmilk.fun/categories/hexo/</loc>
+    <lastmod>2023-11-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.poetmilk.fun/categories/%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5/</loc>
     <lastmod>2023-11-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -332,7 +332,7 @@
   </url>
   
   <url>
-    <loc>https://blog.poetmilk.fun/categories/%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5/</loc>
+    <loc>https://blog.poetmilk.fun/categories/%E6%BC%94%E7%A4%BA/</loc>
     <lastmod>2023-11-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
